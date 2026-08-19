@@ -1,0 +1,6 @@
+.prose p,
+.prose li,
+.prose td,
+.prose blockquote {
+  color: #04050F;
+}
