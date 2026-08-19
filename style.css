@@ -1,6 +1,15 @@
 .prose p,
 .prose li,
 .prose td,
-.prose blockquote {
+.prose blockquote,
+h1 + p {
   color: #04050F;
+}
+
+.dark .prose p,
+.dark .prose li,
+.dark .prose td,
+.dark .prose blockquote,
+.dark h1 + p {
+  color: #D3E0F2;
 }
