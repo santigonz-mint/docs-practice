@@ -3,9 +3,9 @@
   "theme": "almond",
   "name": "Docs Pratice",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#fa081c",
+    "light": "#fa2833",
+    "dark": "#da011e"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -71,11 +71,12 @@
   },
   "background": {
     "color": {
-      "light": "#74a6f6",
-      "dark": "#001332"
-    }
+      "light": "#d1e5f1",
+      "dark": "#10151e"
+    },
+    "decoration": "gradient"
   },
   "icons": {
-    "library": "lucide"
+    "library": "fontawesome"
   }
 }
