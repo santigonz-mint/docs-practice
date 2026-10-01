@@ -32,7 +32,8 @@
             "group": "Personal - Santiago Gonzalez",
             "pages": [
               "index",
-              "quickstart"
+              "quickstart",
+              "changelog"
             ]
           }
         ]
