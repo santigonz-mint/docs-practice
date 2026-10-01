@@ -45,7 +45,8 @@
             "group": "Personal - Santiago Gonzalez",
             "pages": [
               "es/index",
-              "es/quickstart"
+              "es/quickstart",
+              "es/changelog"
             ]
           }
         ]
@@ -57,7 +58,8 @@
             "group": "Personnel - Santiago Gonzalez",
             "pages": [
               "fr/index",
-              "fr/quickstart"
+              "fr/quickstart",
+              "fr/changelog"
             ]
           }
         ]
