@@ -33,6 +33,7 @@
             "pages": [
               "index",
               "quickstart",
+              "soccer-players",
               "changelog"
             ]
           }
