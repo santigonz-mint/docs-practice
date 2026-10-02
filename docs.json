@@ -33,7 +33,8 @@
             "pages": [
               "index",
               "quickstart",
-              "changelog"
+              "changelog",
+              "favorite-soccer-teams"
             ]
           }
         ]
