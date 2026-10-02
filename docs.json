@@ -47,6 +47,7 @@
             "pages": [
               "es/index",
               "es/quickstart",
+              "es/soccer-players",
               "es/changelog"
             ]
           }
@@ -60,6 +61,7 @@
             "pages": [
               "fr/index",
               "fr/quickstart",
+              "fr/soccer-players",
               "fr/changelog"
             ]
           }
