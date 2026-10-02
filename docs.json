@@ -33,6 +33,7 @@
             "pages": [
               "index",
               "quickstart",
+              "sports-teams",
               "changelog"
             ]
           }
